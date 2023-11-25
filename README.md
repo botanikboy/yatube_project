@@ -19,6 +19,6 @@ python3 manage.py runserver
 
 ## Основные технологии
 - [Python](https://www.python.org/)
-- [Django]([https://flask.palletsprojects.com/](https://www.djangoproject.com/)https://www.djangoproject.com/)
+- [Django](https://www.djangoproject.com/)
 
 
