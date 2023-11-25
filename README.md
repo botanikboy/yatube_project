@@ -2,9 +2,7 @@
 ### Описание
 Проект социальной сети с блогами.
 Blogging platform.
-### Технологии
-Python 3.7
-Django 2.2.19
+
 ### Запуск проекта в dev-режиме
 - Установите и активируйте виртуальное окружение
 - Установите зависимости из файла requirements.txt
@@ -15,5 +13,12 @@ pip install -r requirements.txt
 ```
 python3 manage.py runserver
 ```
-### Авторы
-Илья Савинкин
+## Об авторе
+Разработано:
+[Илья Савинкин](https://www.linkedin.com/in/ilya-savinkin-6002a711/)
+
+## Основные технологии
+- [Python](https://www.python.org/)
+- [Django]([https://flask.palletsprojects.com/](https://www.djangoproject.com/)https://www.djangoproject.com/)
+
+
